@@ -4,7 +4,7 @@ page-layout: article
 ---
 
 ::: {.columns}
-::: {.column width="55%"}
+::: {.column width="38%"}
 ::: {.hero-text}
 ## Enzymology and Enzyme Engineering {.hero-title}
 
@@ -12,7 +12,7 @@ page-layout: article
 :::
 :::
 
-::: {.column width="45%"}
+::: {.column width="62%"}
 ![](images/home/ht8.png){.hero-image}
 :::
 :::
