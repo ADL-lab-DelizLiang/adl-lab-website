@@ -1,0 +1,22 @@
+---
+title: "Denise Ferrara"
+subtitle: "PhD Student"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](../images/team/individuals/denise.jpg)
+:::
+
+::: {.column width="70%"}
+After earning my PharmD degree and gaining professional experience in clinical practice in Italy, I decided to further specialize in Research & Development for drug discovery by pursuing a Master's degree in Drug Sciences at the University of Basel.
+
+For my Master's thesis and subsequent postgraduate research, I joined the Computational Pharmacy group led by Prof. Markus Lill and the Division of Molecular and Systems Toxicology headed by Prof. Alex Odermatt, in collaboration with the Structural Biology group at the Biozentrum. My work focused on human dehydrogenase enzymes, elucidating their structure–function relationships and identifying hit compounds with anticancer potential. The collaborative setting of this project allowed me to gain broad expertise in both computational and experimental enzymology, sparking a strong interest in the fascinating field of protein and enzyme engineering.
+
+Deeply inspired by its interdisciplinary and innovative approach, in September 2025 I joined the lab of Prof. Alexandria Deliz Liang at the University of Zurich to pursue my PhD. My research focuses on engineering metalloenzymes by genetic code expansion, applying and expanding my skill set in both in silico and in vitro techniques. Improving our fundamental understanding of such enzymes and redesigning them for new applications, particularly the synthesis of pharmaceutically relevant compounds, represents an ambitious scientific challenge to which I am enthusiastic to contribute.
+
+Outside of science, I am passionate about visual arts, especially cinema and photography, and I enjoy reading, playing the violin, and practicing tennis and yoga.
+:::
+:::
+
+[← Back to team](../team.qmd)

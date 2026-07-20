@@ -1,0 +1,20 @@
+---
+title: "Christina Angerer"
+subtitle: "PhD Student"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](../images/team/individuals/christina.jpg)
+:::
+
+::: {.column width="70%"}
+I completed my bachelor's degree in biochemistry at the University of Würzburg, where I developed a strong interest in protein chemistry. To further pursue this interest, I continued with a master's degree in biochemistry at the Technical University of Munich, focusing on the interface of synthetic chemistry and protein biochemistry. During this time, I was introduced to genetic code expansion as a tool for enzyme engineering. For my master's thesis in the group of Prof. Michael Groll, I investigated enzymes encoded in biosynthetic gene clusters to gain insights into their catalytic mechanisms.
+
+Motivated by my interest in mechanistic enzymology, I joined the Deliz Liang lab as a PhD student in May 2026. I am excited to explore the potential of genetic code expansion for enzyme engineering and to work on optimizing the incorporation of non-canonical amino acids into proteins.
+
+Outside the lab, I enjoy spending time outdoors, hiking, or jogging. I also love relaxing with a good book and a hot cup of tea or playing board games with friends.
+:::
+:::
+
+[← Back to team](../team.qmd)

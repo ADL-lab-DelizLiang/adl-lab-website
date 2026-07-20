@@ -1,0 +1,26 @@
+---
+title: "Sofiia Bolkhovetska"
+subtitle: "PhD Student"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](../images/team/individuals/sofiia.jpg)
+:::
+
+::: {.column width="70%"}
+I must thank my great teachers at my school in Kyiv, whose passion for their subjects sparked my interest in chemistry and biology and made the choice of university major feel easy.
+
+I earned my bachelor's degree in chemistry at the University of Vienna. During my undergraduate studies, I discovered the intriguing field of computational chemistry. Since I could not imagine giving up laboratory work, I pursued two master's programs at the same university.
+
+For my master's thesis in the computational science program, I worked in the group of Prof. Thierry Langer on applying pharmacophore models in machine learning classification tasks.
+
+I pursued biological chemistry as my second master's program and conducted my thesis at Boehringer Ingelheim in Biberach, Germany. I focused on peptides and assay development to study their activity in relevant tissues.
+
+The highlight of my master's studies was the introduction to protein expression, and I am very glad to have the opportunity to join the ADL Lab for my PhD, where I am working on cell-free protein synthesis and its applications in directed evolution.
+
+In my free time, I enjoy reading, jogging, playing the piano, and getting out in nature.
+:::
+:::
+
+[← Back to team](../team.qmd)

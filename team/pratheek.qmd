@@ -1,0 +1,20 @@
+---
+title: "Pratheek Kothamasu"
+subtitle: "PhD Student"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](../images/team/individuals/pratheek.jpg)
+:::
+
+::: {.column width="70%"}
+I am Gnana Pratheek Kothamasu from India. I completed my bachelor's degree in Chemistry at the University of Hyderabad, where I gained my first experience of biocatalysis in organic synthesis. With an interest in enzymes/macromolecules and "classical" chemistry, I pursued an Erasmus Mundus master's in Sustainable Catalysis in Europe, which made me nomadic for 4 semesters, spanning 4 cities across 3 countries, while learning about catalysis and specializing in biocatalysis. My master's thesis project, under Dr Bekir Engin Eser (Aarhus University), focused on engineering cytochrome P450 enzymes to improve their activity for the upcycling of alkanes into value-added products.
+
+With these interests in enzyme engineering and synthetic chemistry, I joined the Deliz Liang lab in January 2026.
+
+Outside of the lab, I enjoy badminton, chess, and hanging out with friends. Lately, getting into reading fiction, improving my cooking, and discovering new hobbies. I am also amateurishly nerdy about archaeolinguistics (look it up!) and historical cultures.
+:::
+:::
+
+[← Back to team](../team.qmd)

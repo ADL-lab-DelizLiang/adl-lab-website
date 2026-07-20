@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - .nojekyll
+
+website:
+  title: "ADL Lab"
+  site-url: "https://www.adl-lab.com"
+  description: "Deliz Liang Lab — Protein and Enzyme Engineering, University of Zurich"
+  favicon: images/logo/favicon.png
+
+  navbar:
+    logo: images/logo/logo.png
+    title: false
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: team.qmd
+        text: Team
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+      - text: "Internal"
+        href: "https://adl-lab-guide-7bdf2a.pages.uzh.ch/"
+        target: _blank
+
+  page-footer:
+    center: "© 2026 Deliz Liang Lab · Department of Chemistry, University of Zurich"
+    background: light
+
+  page-navigation: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    css: styles.css
+    toc: false
+    page-layout: article
+    grid:
+      body-width: 900px
+
+execute:
+  freeze: auto

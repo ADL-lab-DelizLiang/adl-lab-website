@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+*TBA resources…*
+
+**Teaching:**
+
+- Introduction to Data Analytics and Python (DSA101)
+- Biocatalysis
+
+<!-- On the old site these were plain text, not links. If each course has a
+     syllabus/materials page (e.g. in your GitLab wiki or a UZH course page),
+     turn these into markdown links: [Introduction to Data Analytics and
+     Python (DSA101)](https://...) -->

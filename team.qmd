@@ -1,0 +1,104 @@
+---
+title: "Meet the Team"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/ali.jpg)
+<div class="name">**[Ali Deliz Liang](team/ali.qmd)**</div>
+<div class="role">Assistant Professor</div>
+:::
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/sandro.jpg)
+<div class="name">**[Sandro Fischer](team/sandro.qmd)**</div>
+<div class="role">PhD Student</div>
+:::
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/anton.jpg)
+<div class="name">**[Anton Natter Perdiguero](team/anton.qmd)**</div>
+<div class="role">PhD Student</div>
+:::
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/sofiia.jpg)
+<div class="name">**[Sofiia Bolkhovetska](team/sofiia.qmd)**</div>
+<div class="role">PhD Student</div>
+:::
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/alex.jpg)
+<div class="name">**[Alexander Walter](team/alex.qmd)**</div>
+<div class="role">PhD Student</div>
+:::
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/denise.jpg)
+<div class="name">**[Denise Ferrara](team/denise.qmd)**</div>
+<div class="role">PhD Student</div>
+:::
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/pratheek.jpg)
+<div class="name">**[Pratheek Kothamasu](team/pratheek.qmd)**</div>
+<div class="role">PhD Student</div>
+:::
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/christina.jpg)
+<div class="name">**[Christina Angerer](team/christina.qmd)**</div>
+<div class="role">PhD Student</div>
+:::
+
+:::
+
+## Former members
+
+**PhD Students**
+
+- [Benjamin Manser](team/benjamin.qmd) (Nov 2021 – Feb 2026)
+
+**MSc Students**
+
+- Anica Koller (2023, MSc Thesis)
+- Pablo Lugon (2023, MSc Thesis)
+- Jil Heck (2023, MSc Thesis)
+- Michelle Berthel (2023, MSc Thesis)
+- Alrika Lischke (2024–2025, MSc Thesis)
+
+**BSc Students**
+
+- Kevin Kandra (2022, BSc Thesis)
+- Alrika Lischke (2022, BSc Thesis)
+
+## When we remember to take photos
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+![Christmas dinner (2024) — great raclette and vegan bacon, but Ali didn't like the wine…](images/team/group/christmas-dinner-2024.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Escape room (2022 Sep) — we made it out in time :)](images/team/group/escaperoom-2022.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Uetliberg adventure (2022 May) — difficult to get lost on Uetliberg…](images/team/group/group-2022.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Christmas event (2024) — go carts!](images/team/group/christmas-event-2024.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Chemistry Graduate School Retreat — Ali sung some terrible karaoke](images/team/group/gradschool-retreat-2022.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![First group photo (2021 Nov)](images/team/group/group-2021.jpg)
+:::
+
+:::

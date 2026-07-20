@@ -1,0 +1,18 @@
+---
+title: "Alexandria (Ali) Deliz Liang"
+subtitle: "Assistant Professor"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](../images/team/individuals/ali.jpg)
+:::
+
+::: {.column width="70%"}
+Ali completed her undergraduate work at New College of Florida (Sarasota, FL, US). She then obtained her PhD from Massachusetts Institute of Technology (Cambridge, MA, US) working in the laboratory of Stephen J. Lippard. After her PhD, she was an NSF postdoctoral fellow in the laboratory of Jason W. Chin (MRC, Cambridge, UK) and a Marie Curie postdoctoral fellow in the laboratory of Thomas R. Ward (UniBas, Basel, CH). In 2021, she joined UZH as part of the Chemistry department and Digital Society Initiative (DSI).
+
+In addition to science, Ali enjoys hiking, reading, programming, and cooking.
+:::
+:::
+
+[← Back to team](../team.qmd)

@@ -1,0 +1,24 @@
+---
+title: "Contact"
+---
+
+::: {.columns}
+::: {.column width="55%"}
+## Contact Information
+
+**Ali Deliz Liang**
+
+[alexandriadeliz.liang@uzh.ch](mailto:alexandriadeliz.liang@uzh.ch)
+
++41 44 635 44 21
+
+University of Zurich
+Department of Chemistry
+Winterthurerstrasse 190
+8057 Zurich, Switzerland
+:::
+
+::: {.column width="45%"}
+![](images/contact/contact-photo.jpg)
+:::
+:::

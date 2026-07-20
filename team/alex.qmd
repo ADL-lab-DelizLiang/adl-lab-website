@@ -1,0 +1,22 @@
+---
+title: "Alexander Walter"
+subtitle: "PhD Student"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](../images/team/individuals/alex.jpg)
+:::
+
+::: {.column width="70%"}
+Alexander Walter received his B.Sc. and M.Sc. in Biochemistry from the University of Zurich. For his thesis, he worked in the lab of Prof. Martin Jinek on the structural and biophysical characterization of novel antiviral defense systems. After graduating he conducted research in the lab of Prof. Andreas Plückthun where he supported structural and functional studies of G-protein coupled receptors (GPCRs).
+
+He then conducted research as a Senior Research Associate at F. Hoffmann-La Roche in Basel where he supported small and large molecule drug discovery projects with X-ray structure determination, protein analytics, and electron microscopy experiments.
+
+Following his interest in protein engineering, he joined the lab of Prof. Alexandria Deliz Liang as a PhD student where he is investigating novel experimental and computational methods for protein and enzyme engineering.
+
+In his free time, he enjoys taking care of his dwarf pufferfish aquarium, hiking, and playing board games with friends and family.
+:::
+:::
+
+[← Back to team](../team.qmd)

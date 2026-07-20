@@ -1,0 +1,4 @@
+/* Small overrides not worth putting in the SCSS theme layer */
+.former-members li {
+  margin-bottom: 0.3rem;
+}

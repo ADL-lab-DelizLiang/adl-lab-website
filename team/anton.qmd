@@ -1,0 +1,22 @@
+---
+title: "Anton Natter Perdiguero"
+subtitle: "PhD Student"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](../images/team/individuals/anton.jpg)
+:::
+
+::: {.column width="70%"}
+I grew up in Frankfurt am Main (Germany) and received my BSc and MSc in Pharmaceutical Sciences from ETH Zurich. After two research projects in molecular biology and biochemistry I became interested in protein engineering, so I decided to join the group of Prof. Andreas Plückthun at the institute of Biochemistry of the University of Zurich for my Master's thesis.
+
+My work there focused on antibody engineering for the treatment of acute COVID-19 using a shielded retargeted Adenovirus gene therapy platform. After graduation, I continued to work on my master's project towards a preclinical application.
+
+Following my passion for proteins and seeking to expand my expertise towards enzyme engineering, I joined the lab of Prof. Alexandria Deliz Liang in November of 2021 as a PhD student.
+
+Outside of the lab, I am a film enthusiast and enjoy playing card and role-playing games with friends and family.
+:::
+:::
+
+[← Back to team](../team.qmd)
