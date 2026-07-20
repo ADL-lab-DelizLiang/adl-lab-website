@@ -48,6 +48,31 @@ $font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
     width: 100%;
     margin: 1rem 0;
   }
+
+  // Stack every two-column image/text layout (home hero, team member pages,
+  // publications entries, contact) into a single column on phone-width
+  // screens instead of squeezing both side by side. !important is needed
+  // because Quarto sets the column widths as inline styles, which a plain
+  // class rule can't override.
+  .columns .column {
+    width: 100% !important;
+    margin: 0 0 1.5rem 0 !important;
+  }
+
+  .columns .column:last-child {
+    margin-bottom: 0 !important;
+  }
+
+  .columns .column img {
+    max-width: 100% !important;
+    margin: 0 auto 1rem auto !important;
+    display: block;
+  }
+
+  .hero-text {
+    text-align: center;
+    height: auto;
+  }
 }
 
 // Home page hero (title/subtitle left, protein graphic right)
