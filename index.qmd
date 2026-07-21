@@ -21,9 +21,15 @@ page-layout: article
 
 ::: {.columns}
 ::: {.column width="60%"}
-Proteins are essential elements of life, and proteins that catalyze chemical reactions (enzymes) enable critical cellular processes. Unlike many reactions in synthetic chemistry, enzymes can catalyze complex transformations under ambient conditions. Thus, the study of enzymes (enzymology) and their engineering can allow us to better understand, repurpose, and re-engineer enzymes for target functions in green chemistry, bioremediation, therapeutics, and much more.
+Proteins are essential elements of life, and proteins that catalyze chemical reactions (enzymes) enable critical cellular processes. 
+Unlike many reactions in synthetic chemistry, enzymes can catalyze complex transformations under ambient conditions. 
+At our core, our laboratory is focused on fundamental enzymology (the study of enzyme function). 
+Understanding enzyme function can enable us to better understand, repurpose, and re-engineer enzymes 
+for target functions in green chemistry, bioremediation, therapeutics, and much more.
 
-Enzyme engineering can be achieved by changing the amino acid sequence of proteins and enzymes. Our laboratory is focused on fundamental research towards understanding enzyme function and new applications in protein engineering. Towards these goals, we take a highly interdisciplinary approach, drawing on methodologies from chemistry, biology, and informatics.
+When researchers want to understand or engineer an enzyme, the amino acid sequence of the enzyme is often changed to evaluate how these changes impact enzyme function. 
+To advance our ability to study and engineer enzymes, our laboratory develops new tools for engineering enzymes through [genetic code expansion](https://www.adl-lab.com/research.html#genetic-incorporation-of-non-canonical-amino-acids-ncaas). 
+Towards these goals, we take a highly interdisciplinary approach, drawing on methodologies from chemistry, biology, and informatics.
 
 [Learn more →](research.qmd)
 :::
@@ -39,13 +45,14 @@ Enzyme engineering can be achieved by changing the amino acid sequence of protei
 
 ::: {.columns}
 ::: {.column width="40%"}
-![](images/home/group-photo-2021.jpg)
+![](images/team/Coming-soon.jpg)
 :::
 
 ::: {.column width="60%"}
-Our close-knit team is dedicated to conducting rigorous science and to finding joy in the daily tedium of laboratory work.
+Our close-knit team is focused on conducting rigorous science while finding joy in team work and the daily tedium of laboratory work.
 
-Rigor, creativity, and persistence are key features of how our team addresses scientific questions, develops new tools, and explores the field of enzyme engineering.
+Rigor, creativity, and persistence are key features of how our team addresses scientific questions, develops new tools, 
+and explores the fields of enzymology and enzyme engineering.
 
 [Meet the team →](team.qmd)
 :::
