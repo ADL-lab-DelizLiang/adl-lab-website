@@ -45,7 +45,7 @@ Towards these goals, we take a highly interdisciplinary approach, drawing on met
 
 ::: {.columns}
 ::: {.column width="40%"}
-![](images/team/group-photo-2026_crop1_comp1.jpg)
+![](images/home/group-photo-2026_crop1_comp1.jpg)
 :::
 
 ::: {.column width="60%"}
