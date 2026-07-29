@@ -22,3 +22,19 @@ Winterthurerstrasse 190
 ![](images/contact/contact-photo.jpg)
 :::
 :::
+
+
+
+## Materials requests
+
+At present, we are depositing published plasmids with [Addgene](https://www.addgene.org/browse/article/28263974/){target="_blank"} and datasets on [Zenodo](https://zenodo.org/records/18271154){target="_blank"}.
+
+We are very excited for people to reuse the tools we have engineered!
+As a small group, we unfortunately have limited ability to assist with troubleshooting.
+We also maintain our own ongoing projects applying these tools, 
+so requests that overlap closely with our active work may present a conflict. 
+In those cases, we are open to discussing collaboration rather than simply declining, 
+though this will depend on the stage of the project. 
+Where there is no overlap, we will do our best to provide guidance as time allows.
+
+
