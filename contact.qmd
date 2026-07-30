@@ -27,14 +27,23 @@ Winterthurerstrasse 190
 
 ## Materials requests
 
-At present, we are depositing published plasmids with [Addgene](https://www.addgene.org/browse/article/28263974/){target="_blank"} and datasets on [Zenodo](https://zenodo.org/records/18271154){target="_blank"}.
+We deposit published plasmids with [Addgene](https://www.addgene.org/browse/article/28263974/){target="_blank"} and datasets on [Zenodo](https://zenodo.org/records/18271154){target="_blank"}.
 
 We are very excited for people to reuse the tools we have engineered!
 As a small group, we unfortunately have limited ability to assist with troubleshooting.
 We also maintain our own ongoing projects applying these tools, 
 so requests that overlap closely with our active work may present a conflict. 
-In those cases, we are open to discussing collaboration rather than simply declining, 
+In those cases, we are open to discussing collaboration rather than immediately declining, 
 though this will depend on the stage of the project. 
 Where there is no overlap, we will do our best to provide guidance as time allows.
+
+
+## Open positions
+
+We currently have an [open position for a PhD student starting in 2027](https://jobs.uzh.ch/job-vacancies/phd-student-position-enzymology-and-enzyme-engineering/80228247-ac6e-4f89-9689-35721f04e143){target="_blank"}. 
+
+Applications **must** be made through the application portal (available on through the "Apply now" button on the job posting).
+
+Applications and inquires made by email will not be considered.
 
 
