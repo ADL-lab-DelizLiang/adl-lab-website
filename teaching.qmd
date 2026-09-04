@@ -4,6 +4,6 @@ title: "Teaching"
 
 **Teaching**
 
-- [Introduction to Data Analytics and Python (DSA101)](http://idap.adl-lab.com/)
+- [Introduction to Data Analytics and Python (DSA101)](http://idap.adl-lab.com/){target="blank"}
 - Biocatalysis: *TBA resources…*
 
