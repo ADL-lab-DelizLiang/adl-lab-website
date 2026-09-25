@@ -1,0 +1,20 @@
+---
+title: "Simea Bösch"
+subtitle: "Apprentice"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](../images/team/individuals/simea.jpg)
+:::
+
+::: {.column width="70%"}
+
+In August 2025, I began my apprenticeship as a laboratory technician at the University of Zurich. 
+After a year in the Teaching Lab, where I learned the basics, I joined the Deliz Liang group in August 2026. 
+In my free time, I enjoy spending time with my friends and doing sport.
+
+:::
+:::
+
+[← Back to team](../team.qmd)

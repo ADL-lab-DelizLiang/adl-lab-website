@@ -52,6 +52,12 @@ title: "Meet the Team"
 <div class="role">PhD Student</div>
 :::
 
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/simea.jpg)
+<div class="name">**[Simea Bösch](team/simea.qmd)**</div>
+<div class="role">Apprentice</div>
+:::
+
 :::
 
 ## Former members
