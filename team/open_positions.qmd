@@ -2,21 +2,20 @@
 title: "Open Positions"
 ---
 
-**Note: applications must be made through the tool below!** 
+**Note: applications must be made through the tool at the bottom of this page!** 
 Applications sent by email not using the tool will not be considered because the assumption will be that these applicants did not consult our website and thus were not specifically interested in our lab.
-
 
 
 ## Prospective PhD students 
 
 We hire approximately one to two PhD students per year. 
 Candidates must have an MSc degree; please note that some joint BSc-MSc degrees do not count. 
-While, no candidate is expected to have experience in all the [core methods in our lab](@sec-core-methods) prior to joining, 
-an capacity and enthusiasm to become proficient in all of these techniques is essential.
+While no candidate is expected to have experience in all the [core methods in our lab](@sec-core-methods) prior to joining, 
+a capacity and enthusiasm to become proficient in all of these techniques is essential.
 
 In addition to research, PhD students at UZH are responsible for academic and organizational duties, including
 
-- serving as a teaching assistant for **introductory chemistry** courses,
+- serving as a teaching assistant for introductory chemistry courses,
 - participating in group meetings and departmental seminars,
 - fulfilling group responsibilities (equipment and organizational responsibilities), and
 - completing PhD requirements for the UZH chemistry graduate school program.
@@ -56,7 +55,8 @@ Please see the [core methods in our lab](@sec-core-methods) and
 
 We have hosted high school students and visiting PhD students before. 
 These opportunties are dependent on lab capacity at a given time. 
-If you are interested, please get in touch by email. 
+If you are interested, please complete the form at the bottom of this page and indicate "other" for the position. 
+At this time, we are not able to host students for paid internships.
 
 
 ## Core methods used in our lab {#sec-core-methods}
