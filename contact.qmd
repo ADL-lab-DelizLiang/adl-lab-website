@@ -24,6 +24,10 @@ Winterthurerstrasse 190
 :::
 
 
+## Open positions
+
+Please see our [page on open positions](team/open_positions.qmd) for questions about applications.
+
 
 ## Materials requests
 
@@ -36,10 +40,3 @@ so requests that overlap closely with our active work may present a conflict.
 In those cases, we are open to discussing collaboration rather than immediately declining, 
 though this will depend on the stage of the project. 
 Where there is no overlap, we will do our best to provide guidance as time allows.
-
-
-## Open positions
-
-Please see our [page on open positions](team/open_positions.qmd) for questions about applications.
-
-
