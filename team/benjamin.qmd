@@ -15,8 +15,12 @@ Outside of the lab I enjoy cooking, skiing and hiking, as well as playing comput
 
 **Publications**
 
-- Manser BP, Deliz Liang A\*. "Catalytic pKa Attenuation in a Hydrolytic Metalloenzyme by Genetic Code Expansion." *Biochemistry*, 2026.
-- Natter Perdiguero A⧧, Fischer S⧧, Lischke AR, Manser BP, Deliz Liang A\*. "Genetic incorporation of diverse non-canonical amino acids for histidine substitution." *JACS*, 2026.
+- **Manser BP**, Deliz Liang A\*. "Catalytic pKa Attenuation in a Hydrolytic Metalloenzyme by Genetic Code Expansion." *Biochemistry*, 2026.
+- Natter Perdiguero A⧧, Fischer S⧧, Lischke AR, **Manser BP**, Deliz Liang A\*. "Genetic incorporation of diverse non-canonical amino acids for histidine substitution." *JACS*, 2026.
+
+**Current employer**
+Bachem
+
 :::
 :::
 

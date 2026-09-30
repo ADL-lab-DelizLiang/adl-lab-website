@@ -1,0 +1,107 @@
+---
+title: "Open Positions"
+---
+
+::: {.text-center}
+![](images/publications/publications-banner.png){width="22%"}
+:::
+
+**Note: applications must be made through the tool below!** 
+Applications sent by email not using the tool will not be considered because the assumption will be that these applicants did not consult our website and thus were not specifically interested in our lab.
+
+
+
+## Prospective PhD students 
+
+We hire approximately one to two PhD students per year. 
+Candidates must have an MSc degree; please note that some joint BSc-MSc degrees do not count. 
+While, no candidate is expected to have experience in all the [core techniques in our lab](#Core techniques used in our lab) prior to joining, 
+an capacity and enthusiasm to become proficient in all of these techniques is essential.
+
+In addition to research, PhD students at UZH are responsible for academic and organizational duties, including
+
+- serving as a teaching assistant for **introductory chemistry** courses,
+- participating in group meetings and departmental seminars,
+- fulfilling group responsibilities (equipment and organizational responsibilities), and
+- completing PhD requirements for the UZH chemistry graduate school program.
+
+Please see the [core techniques in our lab](#Core methods used in our lab) and 
+[Essential profile of competitive candidates](#Essential profile of competitive candidates) below.
+
+
+## Prospective MSc students 
+
+We are happy to host interested and motivated MSc students from UZH and beyond! 
+
+Prospective MSc students must 
+
+- have a background in chemistry, biochemistry, or a related field, 
+- be able to explain how a protein is made in the cell, and 
+- be interested in doing protein-based work. 
+
+
+## Prospective Postdocs
+
+Ali is largely focused on PhD mentoring and thus does not regularly hire postdocs. 
+However, we do seriously consider postdoc applications. 
+
+To be a competitive postdoc candidate, it is recommended that you 
+
+- have at least one first-author paper or pre-print, 
+- have experience in at least four of the [core techniques in our lab](#Core techniques used in our lab), 
+- identify at least one fellowship that you could apply for, and 
+- have an idea of a project that you would like to work on that leverages your prior experience and the experience of our lab.
+
+Please see the [core techniques in our lab](#Core methods used in our lab) and 
+[Essential profile of competitive candidates](#Essential profile of competitive candidates) below.
+
+
+## Other prospective lab members
+
+We have hosted high school students and visiting PhD students before. 
+These opportunties are dependent on lab capacity at a given time. 
+If you are interested, please get in touch by email. 
+
+
+## Core methods used in our lab
+
+- Cloning (Gibson, KLD, Golden gate, restriction-ligation, SDM, etc)
+- Protein expression (production) and purification,
+- Chemical synthesis of small molecules,
+- Assay development for enzymatic activity,
+- Creation and high-throughput screening of DNA libraries,
+- Genetic code expansion, 
+- Enzyme engineering, and
+- Mechanistic and spectroscopic characterization of key enzyme variants.
+
+Specific projects may also require adavanced techniques specific to the research project. 
+
+
+## Essential profile of competitive candidates
+
+- A degree in chemistry, biochemistry, or related field
+    
+    - Minimum level of chemistry: must be able to describe chemical properties of small molecules
+
+- Experience with some of the [core techniques in our lab](#Core methods used in our lab)
+
+    - MSc students: BSc practical level
+    - PhD students: at least two of the methods at a research level
+    - Postdocs: at leasat four of the methods at a research level
+
+- Willingness and ability to learn Python scripting for data analysis
+- Self motivated
+- Ability to logically design rigorous experiments, including control experiments
+- Scientific integrity
+- Proactive about planning
+- Capable of integrating feedback efficiently
+- Capable of working in a highly interdisciplinary project
+- An interest in reading current, primary scientific literature
+- Excellent communications skills in English (spoken and written) are essential
+- Conscientious and inclusive working style
+
+
+
+::: {.content-visible when-format="html"}
+<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs4IaSVp_du5HoVA04OC_MO5UREFTUTFFU1FKSEEyVTRYSkpBVUFVUVVHNC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+:::

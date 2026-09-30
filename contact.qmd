@@ -40,10 +40,6 @@ Where there is no overlap, we will do our best to provide guidance as time allow
 
 ## Open positions
 
-We currently have an [open position for a PhD student starting in 2027](https://jobs.uzh.ch/job-vacancies/phd-student-position-enzymology-and-enzyme-engineering/80228247-ac6e-4f89-9689-35721f04e143){target="_blank"}. 
-
-Applications **must** be made through the application portal (available on through the "Apply now" button on the job posting).
-
-Applications and inquires made by email will not be considered.
+Please see our [page on open positions](team/open_positions.qmd) for questions about applications.
 
 

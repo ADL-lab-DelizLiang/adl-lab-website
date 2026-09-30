@@ -58,12 +58,19 @@ title: "Meet the Team"
 <div class="role">Apprentice</div>
 :::
 
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/open-positions.jpg)
+<div class="name">**[Click to see open positions](team/open_positions.qmd)**</div>
+<div class="role">PhD, MSc, and Postdoc</div>
+:::
+
 :::
 
 ## Former members
 
 **PhD Students**
 
+- [Sandro Fischer](team/sandro.qmd) (Sep 2021 – Sep 2026)
 - [Benjamin Manser](team/benjamin.qmd) (Nov 2021 – Feb 2026)
 
 **MSc Students**
