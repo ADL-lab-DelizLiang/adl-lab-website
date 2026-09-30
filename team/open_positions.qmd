@@ -2,10 +2,6 @@
 title: "Open Positions"
 ---
 
-::: {.text-center}
-![](images/publications/publications-banner.png){width="22%"}
-:::
-
 **Note: applications must be made through the tool below!** 
 Applications sent by email not using the tool will not be considered because the assumption will be that these applicants did not consult our website and thus were not specifically interested in our lab.
 
@@ -15,7 +11,7 @@ Applications sent by email not using the tool will not be considered because the
 
 We hire approximately one to two PhD students per year. 
 Candidates must have an MSc degree; please note that some joint BSc-MSc degrees do not count. 
-While, no candidate is expected to have experience in all the [core techniques in our lab](#Core techniques used in our lab) prior to joining, 
+While, no candidate is expected to have experience in all the [core methods in our lab](#Core methods used in our lab) prior to joining, 
 an capacity and enthusiasm to become proficient in all of these techniques is essential.
 
 In addition to research, PhD students at UZH are responsible for academic and organizational duties, including
@@ -25,7 +21,7 @@ In addition to research, PhD students at UZH are responsible for academic and or
 - fulfilling group responsibilities (equipment and organizational responsibilities), and
 - completing PhD requirements for the UZH chemistry graduate school program.
 
-Please see the [core techniques in our lab](#Core methods used in our lab) and 
+Please see the [core methods in our lab](#Core methods used in our lab) and 
 [Essential profile of competitive candidates](#Essential profile of competitive candidates) below.
 
 
@@ -48,11 +44,11 @@ However, we do seriously consider postdoc applications.
 To be a competitive postdoc candidate, it is recommended that you 
 
 - have at least one first-author paper or pre-print, 
-- have experience in at least four of the [core techniques in our lab](#Core techniques used in our lab), 
+- have experience in at least four of the [core methods in our lab](#Core methods used in our lab), 
 - identify at least one fellowship that you could apply for, and 
 - have an idea of a project that you would like to work on that leverages your prior experience and the experience of our lab.
 
-Please see the [core techniques in our lab](#Core methods used in our lab) and 
+Please see the [core methods in our lab](#Core methods used in our lab) and 
 [Essential profile of competitive candidates](#Essential profile of competitive candidates) below.
 
 
@@ -83,7 +79,7 @@ Specific projects may also require adavanced techniques specific to the research
     
     - Minimum level of chemistry: must be able to describe chemical properties of small molecules
 
-- Experience with some of the [core techniques in our lab](#Core methods used in our lab)
+- Experience with some of the [core methods in our lab](#Core methods used in our lab)
 
     - MSc students: BSc practical level
     - PhD students: at least two of the methods at a research level
