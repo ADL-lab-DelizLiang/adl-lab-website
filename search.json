@@ -25,7 +25,7 @@
     "href": "contact.html#open-positions",
     "title": "Contact",
     "section": "Open positions",
-    "text": "Open positions\nWe currently have an open position for a PhD student starting in 2027.\nApplications must be made through the application portal (available on through the “Apply now” button on the job posting).\nApplications and inquires made by email will not be considered."
+    "text": "Open positions\nPlease see our page on open positions for questions about applications."
   },
   {
     "objectID": "publications.html",
@@ -49,67 +49,11 @@
     "text": "The Team\n\n\n\n\nOur close-knit team is focused on conducting rigorous science while finding joy in team work and the daily tedium of laboratory work.\nRigor, creativity, and persistence are key features of how our team addresses scientific questions, develops new tools, and explores the fields of enzymology and enzyme engineering.\nMeet the team →"
   },
   {
-    "objectID": "team/christina.html",
-    "href": "team/christina.html",
-    "title": "Christina Angerer",
+    "objectID": "team/benjamin.html",
+    "href": "team/benjamin.html",
+    "title": "Benjamin Manser",
     "section": "",
-    "text": "I completed my bachelor’s degree in biochemistry at the University of Würzburg, where I developed a strong interest in protein chemistry. To further pursue this interest, I continued with a master’s degree in biochemistry at the Technical University of Munich, focusing on the interface of synthetic chemistry and protein biochemistry. During this time, I was introduced to genetic code expansion as a tool for enzyme engineering. For my master’s thesis in the group of Prof. Michael Groll, I investigated enzymes encoded in biosynthetic gene clusters to gain insights into their catalytic mechanisms.\nMotivated by my interest in mechanistic enzymology, I joined the Deliz Liang lab as a PhD student in May 2026. I am excited to explore the potential of genetic code expansion for enzyme engineering and to work on optimizing the incorporation of non-canonical amino acids into proteins.\nOutside the lab, I enjoy spending time outdoors, hiking, or jogging. I also love relaxing with a good book and a hot cup of tea or playing board games with friends.\n\n\n← Back to team"
-  },
-  {
-    "objectID": "team/sandro.html",
-    "href": "team/sandro.html",
-    "title": "Sandro Fischer",
-    "section": "",
-    "text": "I got my Bachelor’s degree in Chemistry at the University of Basel and stayed there to continue with a Master’s degree. Becoming more interested in biochemistry, I joined the group of Prof. Thomas R. Ward for my master thesis. There, I worked on the development of a metathesis catalyzing artificial metalloenzyme based on HaloTag. During this project, I was supervised by Ali, whom I followed to Zürich to pursue a PhD.\nIn my free time, I love playing tennis and doing sport in general, playing cards and board games, and drinking a beer with friends.\n\n\n← Back to team"
-  },
-  {
-    "objectID": "team/anton.html",
-    "href": "team/anton.html",
-    "title": "Anton Natter Perdiguero",
-    "section": "",
-    "text": "I grew up in Frankfurt am Main (Germany) and received my BSc and MSc in Pharmaceutical Sciences from ETH Zurich. After two research projects in molecular biology and biochemistry I became interested in protein engineering, so I decided to join the group of Prof. Andreas Plückthun at the institute of Biochemistry of the University of Zurich for my Master’s thesis.\nMy work there focused on antibody engineering for the treatment of acute COVID-19 using a shielded retargeted Adenovirus gene therapy platform. After graduation, I continued to work on my master’s project towards a preclinical application.\nFollowing my passion for proteins and seeking to expand my expertise towards enzyme engineering, I joined the lab of Prof. Alexandria Deliz Liang in November of 2021 as a PhD student.\nOutside of the lab, I am a film enthusiast and enjoy playing card and role-playing games with friends and family.\n\n\n← Back to team"
-  },
-  {
-    "objectID": "team/denise.html",
-    "href": "team/denise.html",
-    "title": "Denise Ferrara",
-    "section": "",
-    "text": "After earning my PharmD degree and gaining professional experience in clinical practice in Italy, I decided to further specialize in Research & Development for drug discovery by pursuing a Master’s degree in Drug Sciences at the University of Basel.\nFor my Master’s thesis and subsequent postgraduate research, I joined the Computational Pharmacy group led by Prof. Markus Lill and the Division of Molecular and Systems Toxicology headed by Prof. Alex Odermatt, in collaboration with the Structural Biology group at the Biozentrum. My work focused on human dehydrogenase enzymes, elucidating their structure–function relationships and identifying hit compounds with anticancer potential. The collaborative setting of this project allowed me to gain broad expertise in both computational and experimental enzymology, sparking a strong interest in the fascinating field of protein and enzyme engineering.\nDeeply inspired by its interdisciplinary and innovative approach, in September 2025 I joined the lab of Prof. Alexandria Deliz Liang at the University of Zurich to pursue my PhD. My research focuses on engineering metalloenzymes by genetic code expansion, applying and expanding my skill set in both in silico and in vitro techniques. Improving our fundamental understanding of such enzymes and redesigning them for new applications, particularly the synthesis of pharmaceutically relevant compounds, represents an ambitious scientific challenge to which I am enthusiastic to contribute.\nOutside of science, I am passionate about visual arts, especially cinema and photography, and I enjoy reading, playing the violin, and practicing tennis and yoga.\n\n\n← Back to team"
-  },
-  {
-    "objectID": "team/pratheek.html",
-    "href": "team/pratheek.html",
-    "title": "Pratheek Kothamasu",
-    "section": "",
-    "text": "I am Gnana Pratheek Kothamasu from India. I completed my bachelor’s degree in Chemistry at the University of Hyderabad, where I gained my first experience of biocatalysis in organic synthesis. With an interest in enzymes/macromolecules and “classical” chemistry, I pursued an Erasmus Mundus master’s in Sustainable Catalysis in Europe, which made me nomadic for 4 semesters, spanning 4 cities across 3 countries, while learning about catalysis and specializing in biocatalysis. My master’s thesis project, under Dr Bekir Engin Eser (Aarhus University), focused on engineering cytochrome P450 enzymes to improve their activity for the upcycling of alkanes into value-added products.\nWith these interests in enzyme engineering and synthetic chemistry, I joined the Deliz Liang lab in January 2026.\nOutside of the lab, I enjoy badminton, chess, and hanging out with friends. Lately, getting into reading fiction, improving my cooking, and discovering new hobbies. I am also amateurishly nerdy about archaeolinguistics (look it up!) and historical cultures.\n\n\n← Back to team"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching\n\nIntroduction to Data Analytics and Python (DSA101)\nBiocatalysis: TBA resources…"
-  },
-  {
-    "objectID": "team/ali.html",
-    "href": "team/ali.html",
-    "title": "Alexandria (Ali) Deliz Liang",
-    "section": "",
-    "text": "Ali completed her undergraduate work at New College of Florida (Sarasota, FL, US). She then obtained her PhD from Massachusetts Institute of Technology (Cambridge, MA, US) working in the laboratory of Stephen J. Lippard. After her PhD, she was an NSF postdoctoral fellow in the laboratory of Jason W. Chin (MRC, Cambridge, UK) and a Marie Curie postdoctoral fellow in the laboratory of Thomas R. Ward (UniBas, Basel, CH). In 2021, she joined UZH as part of the Chemistry department and Digital Society Initiative (DSI).\nIn addition to science, Ali enjoys hiking, reading, programming, and cooking.\n\n\n← Back to team"
-  },
-  {
-    "objectID": "team/simea.html",
-    "href": "team/simea.html",
-    "title": "Simea Bösch",
-    "section": "",
-    "text": "In August 2025, I began my apprenticeship as a laboratory technician at the University of Zurich. After a year in the Teaching Lab, where I learned the basics, I joined the Deliz Liang group in August 2026. In my free time, I enjoy spending time with my friends and doing sport.\n\n\n← Back to team"
-  },
-  {
-    "objectID": "team/alex.html",
-    "href": "team/alex.html",
-    "title": "Alexander Walter",
-    "section": "",
-    "text": "Alexander Walter received his B.Sc. and M.Sc. in Biochemistry from the University of Zurich. For his thesis, he worked in the lab of Prof. Martin Jinek on the structural and biophysical characterization of novel antiviral defense systems. After graduating he conducted research in the lab of Prof. Andreas Plückthun where he supported structural and functional studies of G-protein coupled receptors (GPCRs).\nHe then conducted research as a Senior Research Associate at F. Hoffmann-La Roche in Basel where he supported small and large molecule drug discovery projects with X-ray structure determination, protein analytics, and electron microscopy experiments.\nFollowing his interest in protein engineering, he joined the lab of Prof. Alexandria Deliz Liang as a PhD student where he is investigating novel experimental and computational methods for protein and enzyme engineering.\nIn his free time, he enjoys taking care of his dwarf pufferfish aquarium, hiking, and playing board games with friends and family.\n\n\n← Back to team"
+    "text": "My passion in chemistry was sparked in high-school and led me to study chemistry at the University of Basel, where I obtained my Bachelor’s and Master’s degree. For my Master’s thesis I joined the group of Prof. Thomas R. Ward where I worked on artificial metalloenzymes based on the biotin-streptavidin technology which introduced me to biochemistry. Intrigued by the field of biochemistry I decided to join Ali, whom I met during my time in the Ward lab, for a PhD in Zurich.\nOutside of the lab I enjoy cooking, skiing and hiking, as well as playing computer games and drinking a beer with friends.\nPublications\n\nManser BP, Deliz Liang A*. “Catalytic pKa Attenuation in a Hydrolytic Metalloenzyme by Genetic Code Expansion.” Biochemistry, 2026.\nNatter Perdiguero A⧧, Fischer S⧧, Lischke AR, Manser BP, Deliz Liang A*. “Genetic incorporation of diverse non-canonical amino acids for histidine substitution.” JACS, 2026.\n\nCurrent employer Bachem\n\n\n← Back to team"
   },
   {
     "objectID": "team/sofiia.html",
@@ -119,25 +63,130 @@
     "text": "I must thank my great teachers at my school in Kyiv, whose passion for their subjects sparked my interest in chemistry and biology and made the choice of university major feel easy.\nI earned my bachelor’s degree in chemistry at the University of Vienna. During my undergraduate studies, I discovered the intriguing field of computational chemistry. Since I could not imagine giving up laboratory work, I pursued two master’s programs at the same university.\nFor my master’s thesis in the computational science program, I worked in the group of Prof. Thierry Langer on applying pharmacophore models in machine learning classification tasks.\nI pursued biological chemistry as my second master’s program and conducted my thesis at Boehringer Ingelheim in Biberach, Germany. I focused on peptides and assay development to study their activity in relevant tissues.\nThe highlight of my master’s studies was the introduction to protein expression, and I am very glad to have the opportunity to join the ADL Lab for my PhD, where I am working on cell-free protein synthesis and its applications in directed evolution.\nIn my free time, I enjoy reading, jogging, playing the piano, and getting out in nature.\n\n\n← Back to team"
   },
   {
-    "objectID": "team/benjamin.html",
-    "href": "team/benjamin.html",
-    "title": "Benjamin Manser",
+    "objectID": "team/alex.html",
+    "href": "team/alex.html",
+    "title": "Alexander Walter",
     "section": "",
-    "text": "My passion in chemistry was sparked in high-school and led me to study chemistry at the University of Basel, where I obtained my Bachelor’s and Master’s degree. For my Master’s thesis I joined the group of Prof. Thomas R. Ward where I worked on artificial metalloenzymes based on the biotin-streptavidin technology which introduced me to biochemistry. Intrigued by the field of biochemistry I decided to join Ali, whom I met during my time in the Ward lab, for a PhD in Zurich.\nOutside of the lab I enjoy cooking, skiing and hiking, as well as playing computer games and drinking a beer with friends.\nPublications\n\nManser BP, Deliz Liang A*. “Catalytic pKa Attenuation in a Hydrolytic Metalloenzyme by Genetic Code Expansion.” Biochemistry, 2026.\nNatter Perdiguero A⧧, Fischer S⧧, Lischke AR, Manser BP, Deliz Liang A*. “Genetic incorporation of diverse non-canonical amino acids for histidine substitution.” JACS, 2026.\n\n\n\n← Back to team"
+    "text": "Alexander Walter received his B.Sc. and M.Sc. in Biochemistry from the University of Zurich. For his thesis, he worked in the lab of Prof. Martin Jinek on the structural and biophysical characterization of novel antiviral defense systems. After graduating he conducted research in the lab of Prof. Andreas Plückthun where he supported structural and functional studies of G-protein coupled receptors (GPCRs).\nHe then conducted research as a Senior Research Associate at F. Hoffmann-La Roche in Basel where he supported small and large molecule drug discovery projects with X-ray structure determination, protein analytics, and electron microscopy experiments.\nFollowing his interest in protein engineering, he joined the lab of Prof. Alexandria Deliz Liang as a PhD student where he is investigating novel experimental and computational methods for protein and enzyme engineering.\nIn his free time, he enjoys taking care of his dwarf pufferfish aquarium, hiking, and playing board games with friends and family.\n\n\n← Back to team"
+  },
+  {
+    "objectID": "team/simea.html",
+    "href": "team/simea.html",
+    "title": "Simea Bösch",
+    "section": "",
+    "text": "In August 2025, I began my apprenticeship as a laboratory technician at the University of Zurich. After a year in the Teaching Lab, where I learned the basics, I joined the Deliz Liang group in August 2026. In my free time, I enjoy spending time with my friends and doing sport.\n\n\n← Back to team"
+  },
+  {
+    "objectID": "team/ali.html",
+    "href": "team/ali.html",
+    "title": "Alexandria (Ali) Deliz Liang",
+    "section": "",
+    "text": "Ali completed her undergraduate work at New College of Florida (Sarasota, FL, US). She then obtained her PhD from Massachusetts Institute of Technology (Cambridge, MA, US) working in the laboratory of Stephen J. Lippard. After her PhD, she was an NSF postdoctoral fellow in the laboratory of Jason W. Chin (MRC, Cambridge, UK) and a Marie Curie postdoctoral fellow in the laboratory of Thomas R. Ward (UniBas, Basel, CH). In 2021, she joined UZH as part of the Chemistry department and Digital Society Initiative (DSI).\nIn addition to science, Ali enjoys hiking, reading, programming, and cooking.\n\n\n← Back to team"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\n\nIntroduction to Data Analytics and Python (DSA101)\nBiocatalysis: TBA resources…"
+  },
+  {
+    "objectID": "team/pratheek.html",
+    "href": "team/pratheek.html",
+    "title": "Pratheek Kothamasu",
+    "section": "",
+    "text": "I am Gnana Pratheek Kothamasu from India. I completed my bachelor’s degree in Chemistry at the University of Hyderabad, where I gained my first experience of biocatalysis in organic synthesis. With an interest in enzymes/macromolecules and “classical” chemistry, I pursued an Erasmus Mundus master’s in Sustainable Catalysis in Europe, which made me nomadic for 4 semesters, spanning 4 cities across 3 countries, while learning about catalysis and specializing in biocatalysis. My master’s thesis project, under Dr Bekir Engin Eser (Aarhus University), focused on engineering cytochrome P450 enzymes to improve their activity for the upcycling of alkanes into value-added products.\nWith these interests in enzyme engineering and synthetic chemistry, I joined the Deliz Liang lab in January 2026.\nOutside of the lab, I enjoy badminton, chess, and hanging out with friends. Lately, getting into reading fiction, improving my cooking, and discovering new hobbies. I am also amateurishly nerdy about archaeolinguistics (look it up!) and historical cultures.\n\n\n← Back to team"
+  },
+  {
+    "objectID": "team/denise.html",
+    "href": "team/denise.html",
+    "title": "Denise Ferrara",
+    "section": "",
+    "text": "After earning my PharmD degree and gaining professional experience in clinical practice in Italy, I decided to further specialize in Research & Development for drug discovery by pursuing a Master’s degree in Drug Sciences at the University of Basel.\nFor my Master’s thesis and subsequent postgraduate research, I joined the Computational Pharmacy group led by Prof. Markus Lill and the Division of Molecular and Systems Toxicology headed by Prof. Alex Odermatt, in collaboration with the Structural Biology group at the Biozentrum. My work focused on human dehydrogenase enzymes, elucidating their structure–function relationships and identifying hit compounds with anticancer potential. The collaborative setting of this project allowed me to gain broad expertise in both computational and experimental enzymology, sparking a strong interest in the fascinating field of protein and enzyme engineering.\nDeeply inspired by its interdisciplinary and innovative approach, in September 2025 I joined the lab of Prof. Alexandria Deliz Liang at the University of Zurich to pursue my PhD. My research focuses on engineering metalloenzymes by genetic code expansion, applying and expanding my skill set in both in silico and in vitro techniques. Improving our fundamental understanding of such enzymes and redesigning them for new applications, particularly the synthesis of pharmaceutically relevant compounds, represents an ambitious scientific challenge to which I am enthusiastic to contribute.\nOutside of science, I am passionate about visual arts, especially cinema and photography, and I enjoy reading, playing the violin, and practicing tennis and yoga.\n\n\n← Back to team"
+  },
+  {
+    "objectID": "team/anton.html",
+    "href": "team/anton.html",
+    "title": "Anton Natter Perdiguero",
+    "section": "",
+    "text": "I grew up in Frankfurt am Main (Germany) and received my BSc and MSc in Pharmaceutical Sciences from ETH Zurich. After two research projects in molecular biology and biochemistry I became interested in protein engineering, so I decided to join the group of Prof. Andreas Plückthun at the institute of Biochemistry of the University of Zurich for my Master’s thesis.\nMy work there focused on antibody engineering for the treatment of acute COVID-19 using a shielded retargeted Adenovirus gene therapy platform. After graduation, I continued to work on my master’s project towards a preclinical application.\nFollowing my passion for proteins and seeking to expand my expertise towards enzyme engineering, I joined the lab of Prof. Alexandria Deliz Liang in November of 2021 as a PhD student.\nOutside of the lab, I am a film enthusiast and enjoy playing card and role-playing games with friends and family.\nPhD Publications\n\nNatter Perdiguero A⧧, Fischer S⧧, Lischke AR, Manser BP, Deliz Liang A*. “Genetic incorporation of diverse non-canonical amino acids for histidine substitution.” JACS, 2026.\nFischer S⧧, Natter Perdiguero A⧧, Lau K, Deliz Liang A*. “Hydrophobic tuning with non-canonical amino acids in a copper metalloenzyme” Nature Chemistry. 2026\n\n\n\n← Back to team"
+  },
+  {
+    "objectID": "team/sandro.html",
+    "href": "team/sandro.html",
+    "title": "Sandro Fischer",
+    "section": "",
+    "text": "I got my Bachelor’s degree in Chemistry at the University of Basel and stayed there to continue with a Master’s degree. Becoming more interested in biochemistry, I joined the group of Prof. Thomas R. Ward for my master thesis. There, I worked on the development of a metathesis catalyzing artificial metalloenzyme based on HaloTag. During this project, I was supervised by Ali, whom I followed to Zürich to pursue a PhD.\nIn my free time, I love playing tennis and doing sport in general, playing cards and board games, and drinking a beer with friends.\nPhD Publications\n\nNatter Perdiguero A⧧, Fischer S⧧, Lischke AR, Manser BP, Deliz Liang A*. “Genetic incorporation of diverse non-canonical amino acids for histidine substitution.” JACS, 2026.\nFischer S⧧, Natter Perdiguero A⧧, Lau K, Deliz Liang A*. “Hydrophobic tuning with non-canonical amino acids in a copper metalloenzyme” Nature Chemistry. 2026\n\nCurrent employer Lonza\n\n\n← Back to team"
+  },
+  {
+    "objectID": "team/christina.html",
+    "href": "team/christina.html",
+    "title": "Christina Angerer",
+    "section": "",
+    "text": "I completed my bachelor’s degree in biochemistry at the University of Würzburg, where I developed a strong interest in protein chemistry. To further pursue this interest, I continued with a master’s degree in biochemistry at the Technical University of Munich, focusing on the interface of synthetic chemistry and protein biochemistry. During this time, I was introduced to genetic code expansion as a tool for enzyme engineering. For my master’s thesis in the group of Prof. Michael Groll, I investigated enzymes encoded in biosynthetic gene clusters to gain insights into their catalytic mechanisms.\nMotivated by my interest in mechanistic enzymology, I joined the Deliz Liang lab as a PhD student in May 2026. I am excited to explore the potential of genetic code expansion for enzyme engineering and to work on optimizing the incorporation of non-canonical amino acids into proteins.\nOutside the lab, I enjoy spending time outdoors, hiking, or jogging. I also love relaxing with a good book and a hot cup of tea or playing board games with friends.\n\n\n← Back to team"
+  },
+  {
+    "objectID": "team/open_positions.html",
+    "href": "team/open_positions.html",
+    "title": "Open Positions",
+    "section": "",
+    "text": "Note: applications must be made through the tool below! Applications sent by email not using the tool will not be considered because the assumption will be that these applicants did not consult our website and thus were not specifically interested in our lab."
+  },
+  {
+    "objectID": "team/open_positions.html#prospective-phd-students",
+    "href": "team/open_positions.html#prospective-phd-students",
+    "title": "Open Positions",
+    "section": "Prospective PhD students",
+    "text": "Prospective PhD students\nWe hire approximately one to two PhD students per year. Candidates must have an MSc degree; please note that some joint BSc-MSc degrees do not count. While, no candidate is expected to have experience in all the core techniques in our lab prior to joining, an capacity and enthusiasm to become proficient in all of these techniques is essential.\nIn addition to research, PhD students at UZH are responsible for academic and organizational duties, including\n\nserving as a teaching assistant for introductory chemistry courses,\nparticipating in group meetings and departmental seminars,\nfulfilling group responsibilities (equipment and organizational responsibilities), and\ncompleting PhD requirements for the UZH chemistry graduate school program.\n\nPlease see the core techniques in our lab and Essential profile of competitive candidates below."
+  },
+  {
+    "objectID": "team/open_positions.html#prospective-msc-students",
+    "href": "team/open_positions.html#prospective-msc-students",
+    "title": "Open Positions",
+    "section": "Prospective MSc students",
+    "text": "Prospective MSc students\nWe are happy to host interested and motivated MSc students from UZH and beyond!\nProspective MSc students must\n\nhave a background in chemistry, biochemistry, or a related field,\nbe able to explain how a protein is made in the cell, and\nbe interested in doing protein-based work."
+  },
+  {
+    "objectID": "team/open_positions.html#prospective-postdocs",
+    "href": "team/open_positions.html#prospective-postdocs",
+    "title": "Open Positions",
+    "section": "Prospective Postdocs",
+    "text": "Prospective Postdocs\nAli is largely focused on PhD mentoring and thus does not regularly hire postdocs. However, we do seriously consider postdoc applications.\nTo be a competitive postdoc candidate, it is recommended that you\n\nhave at least one first-author paper or pre-print,\nhave experience in at least four of the core techniques in our lab,\nidentify at least one fellowship that you could apply for, and\nhave an idea of a project that you would like to work on that leverages your prior experience and the experience of our lab.\n\nPlease see the core techniques in our lab and Essential profile of competitive candidates below."
+  },
+  {
+    "objectID": "team/open_positions.html#other-prospective-lab-members",
+    "href": "team/open_positions.html#other-prospective-lab-members",
+    "title": "Open Positions",
+    "section": "Other prospective lab members",
+    "text": "Other prospective lab members\nWe have hosted high school students and visiting PhD students before. These opportunties are dependent on lab capacity at a given time. If you are interested, please get in touch by email."
+  },
+  {
+    "objectID": "team/open_positions.html#core-methods-used-in-our-lab",
+    "href": "team/open_positions.html#core-methods-used-in-our-lab",
+    "title": "Open Positions",
+    "section": "Core methods used in our lab",
+    "text": "Core methods used in our lab\n\nCloning (Gibson, KLD, Golden gate, restriction-ligation, SDM, etc)\nProtein expression (production) and purification,\nChemical synthesis of small molecules,\nAssay development for enzymatic activity,\nCreation and high-throughput screening of DNA libraries,\nGenetic code expansion,\nEnzyme engineering, and\nMechanistic and spectroscopic characterization of key enzyme variants.\n\nSpecific projects may also require adavanced techniques specific to the research project."
+  },
+  {
+    "objectID": "team/open_positions.html#essential-profile-of-competitive-candidates",
+    "href": "team/open_positions.html#essential-profile-of-competitive-candidates",
+    "title": "Open Positions",
+    "section": "Essential profile of competitive candidates",
+    "text": "Essential profile of competitive candidates\n\nA degree in chemistry, biochemistry, or related field\n\nMinimum level of chemistry: must be able to describe chemical properties of small molecules\n\nExperience with some of the core techniques in our lab\n\nMSc students: BSc practical level\nPhD students: at least two of the methods at a research level\nPostdocs: at leasat four of the methods at a research level\n\nWillingness and ability to learn Python scripting for data analysis\nSelf motivated\nAbility to logically design rigorous experiments, including control experiments\nScientific integrity\nProactive about planning\nCapable of integrating feedback efficiently\nCapable of working in a highly interdisciplinary project\nAn interest in reading current, primary scientific literature\nExcellent communications skills in English (spoken and written) are essential\nConscientious and inclusive working style"
   },
   {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Meet the Team",
     "section": "",
-    "text": "Ali Deliz Liang\n\n\nAssistant Professor\n\n\n\n\n\nSandro Fischer\n\n\nPhD Student\n\n\n\n\n\nAnton Natter Perdiguero\n\n\nPhD Student\n\n\n\n\n\nSofiia Bolkhovetska\n\n\nPhD Student\n\n\n\n\n\nAlexander Walter\n\n\nPhD Student\n\n\n\n\n\nDenise Ferrara\n\n\nPhD Student\n\n\n\n\n\nPratheek Kothamasu\n\n\nPhD Student\n\n\n\n\n\nChristina Angerer\n\n\nPhD Student\n\n\n\n\n\nSimea Bösch\n\n\nApprentice"
+    "text": "Ali Deliz Liang\n\n\nAssistant Professor\n\n\n\n\n\nSandro Fischer\n\n\nPhD Student\n\n\n\n\n\nAnton Natter Perdiguero\n\n\nPhD Student\n\n\n\n\n\nSofiia Bolkhovetska\n\n\nPhD Student\n\n\n\n\n\nAlexander Walter\n\n\nPhD Student\n\n\n\n\n\nDenise Ferrara\n\n\nPhD Student\n\n\n\n\n\nPratheek Kothamasu\n\n\nPhD Student\n\n\n\n\n\nChristina Angerer\n\n\nPhD Student\n\n\n\n\n\nSimea Bösch\n\n\nApprentice\n\n\n\n\n\nClick to see open positions\n\n\nPhD, MSc, and Postdoc"
   },
   {
     "objectID": "team.html#former-members",
     "href": "team.html#former-members",
     "title": "Meet the Team",
     "section": "Former members",
-    "text": "Former members\nPhD Students\n\nBenjamin Manser (Nov 2021 – Feb 2026)\n\nMSc Students\n\nAnica Koller (2023, MSc Thesis)\nPablo Lugon (2023, MSc Thesis)\nJil Heck (2023, MSc Thesis)\nMichelle Berthel (2023, MSc Thesis)\nAlrika Lischke (2024–2025, MSc Thesis)\n\nBSc Students\n\nKevin Kandra (2022, BSc Thesis)\nAlrika Lischke (2022, BSc Thesis)"
+    "text": "Former members\nPhD Students\n\nSandro Fischer (Sep 2021 – Sep 2026)\nBenjamin Manser (Nov 2021 – Feb 2026)\n\nMSc Students\n\nAnica Koller (2023, MSc Thesis)\nPablo Lugon (2023, MSc Thesis)\nJil Heck (2023, MSc Thesis)\nMichelle Berthel (2023, MSc Thesis)\nAlrika Lischke (2024–2025, MSc Thesis)\n\nBSc Students\n\nKevin Kandra (2022, BSc Thesis)\nAlrika Lischke (2022, BSc Thesis)"
   },
   {
     "objectID": "team.html#when-we-remember-to-take-photos",
