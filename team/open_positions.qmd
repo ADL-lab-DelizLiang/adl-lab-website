@@ -81,9 +81,9 @@ Specific projects may also require adavanced techniques specific to the research
 
 - Experience with some of the [core methods in our lab](#sec-core-methods)
 
-    - MSc students: BSc practical level
+    - MSc students: BSc practical level for synthesis, cloning, and protein expression + purification
     - PhD students: at least two of the methods at a research level
-    - Postdocs: at leasat four of the methods at a research level
+    - Postdocs: at least four of the methods at a research level
 
 - Willingness and ability to learn Python scripting for data analysis
 - Self motivated
