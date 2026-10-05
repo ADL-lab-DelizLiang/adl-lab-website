@@ -11,12 +11,6 @@ title: "Meet the Team"
 :::
 
 ::: {.g-col-12 .g-col-md-3 .team-card}
-![](images/team/individuals/sandro.jpg)
-<div class="name">**[Sandro Fischer](team/sandro.qmd)**</div>
-<div class="role">PhD Student</div>
-:::
-
-::: {.g-col-12 .g-col-md-3 .team-card}
 ![](images/team/individuals/anton.jpg)
 <div class="name">**[Anton Natter Perdiguero](team/anton.qmd)**</div>
 <div class="role">PhD Student</div>

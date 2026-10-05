@@ -21,7 +21,7 @@ In addition to research, PhD students at UZH are responsible for academic and or
 - completing PhD requirements for the UZH chemistry graduate school program.
 
 Please see the [core methods in our lab](#sec-core-methods) and 
-[Essential profile of competitive candidates](#sec-essent-prof) below.
+[essential profile of competitive candidates](#sec-essent-prof) below.
 
 
 ## Prospective MSc students 
@@ -32,7 +32,7 @@ Prospective MSc students must
 
 - have a background in chemistry, biochemistry, or a related field, 
 - be able to explain how a protein is made in the cell, and 
-- be interested in doing protein-based work. 
+- be interested in doing protein-based, experimental lab work. 
 
 
 ## Prospective Postdocs
@@ -48,7 +48,7 @@ To be a competitive postdoc candidate, it is recommended that you
 - have an idea of a project that you would like to work on that leverages your prior experience and the experience of our lab.
 
 Please see the [core methods in our lab](#sec-core-methods) and 
-[Essential profile of competitive candidates](#sec-essent-prof) below.
+[essential profile of competitive candidates](#sec-essent-prof) below.
 
 
 ## Other prospective lab members
