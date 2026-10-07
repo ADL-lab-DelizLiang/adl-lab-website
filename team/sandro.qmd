@@ -29,3 +29,7 @@ Lonza
 :::
 
 [← Back to team](../team.qmd)
+
+<script>
+document.body.classList.add('celebrate-title');
+</script>
