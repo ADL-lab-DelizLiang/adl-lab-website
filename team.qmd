@@ -64,8 +64,8 @@ title: "Meet the Team"
 
 **PhD Students**
 
-- [Sandro Fischer](team/sandro.qmd) (Sep 2021 – Sep 2026)
-- [Benjamin Manser](team/benjamin.qmd) (Nov 2021 – Feb 2026)
+- [Sandro Fischer, PhD](team/sandro.qmd) (Sep 2021 – Sep 2026)
+- [Benjamin Manser, PhD](team/benjamin.qmd) (Nov 2021 – Feb 2026)
 
 **MSc Students**
 

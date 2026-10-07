@@ -45,6 +45,8 @@ format:
     css: styles.css
     toc: false
     page-layout: article
+    date: last-modified
+    published-title: "Updated"
     grid:
       body-width: 900px
 
