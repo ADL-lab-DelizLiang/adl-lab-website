@@ -23,12 +23,6 @@ title: "Meet the Team"
 :::
 
 ::: {.g-col-12 .g-col-md-3 .team-card}
-![](images/team/individuals/alex.jpg)
-<div class="name">**[Alexander Walter](team/alex.qmd)**</div>
-<div class="role">PhD Student</div>
-:::
-
-::: {.g-col-12 .g-col-md-3 .team-card}
 ![](images/team/individuals/denise.jpg)
 <div class="name">**[Denise Ferrara](team/denise.qmd)**</div>
 <div class="role">PhD Student</div>
@@ -50,6 +44,11 @@ title: "Meet the Team"
 ![](images/team/individuals/simea.jpg)
 <div class="name">**[Simea Bösch](team/simea.qmd)**</div>
 <div class="role">Apprentice</div>
+:::
+
+::: {.g-col-12 .g-col-md-3 .team-card}
+![](images/team/individuals/alex.jpg)
+<div class="name">**[Alexander Walter](team/alex.qmd)**</div>
 :::
 
 ::: {.g-col-12 .g-col-md-3 .team-card}
