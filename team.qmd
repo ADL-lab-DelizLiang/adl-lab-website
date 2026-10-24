@@ -48,7 +48,7 @@ title: "Meet the Team"
 
 ::: {.g-col-12 .g-col-md-3 .team-card}
 ![](images/team/individuals/alex.jpg)
-<div class="name">**[Alexander Walter](team/alex.qmd)**</div>
+<div class="name">Alexander Walter</div>
 :::
 
 ::: {.g-col-12 .g-col-md-3 .team-card}
