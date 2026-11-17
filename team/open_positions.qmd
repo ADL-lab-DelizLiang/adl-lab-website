@@ -56,7 +56,8 @@ Please see the [core methods in our lab](#sec-core-methods) and
 We have hosted high school students and visiting PhD students before. 
 These opportunties are dependent on lab capacity at a given time. 
 If you are interested, please complete the form at the bottom of this page and indicate "other" for the position. 
-At this time, we are not able to host students for paid internships.
+
+At this time, we are not able to host students for short-term paid positions. 
 
 
 ## Core methods used in our lab {#sec-core-methods}
